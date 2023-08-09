@@ -1,2 +1,2 @@
 # DontPadCrawler
-A simple crawler and parser for http://dontpad.com/
+A simple crawler for http://dontpad.com/
